@@ -1,6 +1,10 @@
 PHP client for [speix/cue](https://github.com/speix/cue)
 
-Usage: 
+#### Setup
+
+    composer require yrizos/cue-client
+
+#### Usage 
 
     $client = new Cue\Client('127.0.0.1', 8000);
     $task   = new \Cue\Task(
