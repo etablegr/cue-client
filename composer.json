@@ -1,0 +1,17 @@
+{
+  "name": "yrizos/cue-client",
+  "type": "library",
+  "license": "WTFPL",
+  "authors": [
+    {
+      "name": "Yannis Rizos",
+      "email": "yrizos@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Cue\\": "src/"
+    }
+  }
+}
